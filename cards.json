@@ -1,0 +1,59 @@
+{"basic": {
+      
+"001": {
+      "front": "How many different NBA teams has LeBron James played for?",
+      "back": "Two"
+},
+
+"002": {
+      "front": "What is LeBron's nickname?",
+      "back": "King James"
+
+},
+"003": {
+      "front": "How many championships has LeBron won?",
+      "back": "Three"
+
+},
+"004": {
+      "front": "Where is LeBron James from?",
+      "back": "Akron, OH"
+
+},
+"005": {
+      "front": "How many championships have the Cleveland Cavaliers won?",
+      "back": "One"
+
+}
+
+},
+
+"clozed": {
+      
+"001": {
+      "front": "LeBron James has played for ... different NBA teams.",
+
+      "back": "two"
+      
+},
+"002": {
+      "front": "LeBron's nickname is ... .",
+      "back": "King James"
+
+},
+"003": {
+      "front": "LeBron has won ... championships.",
+      "back": "three"
+
+},
+"004": {
+      "front": "LeBron James is from ... .",
+      "back": "Akron, OH"
+
+},
+"005": {
+      "front": "The Cleveland Cavaliers have won ... championship.",
+      "back": "one"
+
+      }
+}
